@@ -5,4 +5,4 @@ pyton 3.5 + pytest + selenium
  ```pip install -U pip```
 3. Устанавливаем зависимости
  ```pip install -r requirements.txt```
-4. Проверяем установку командой pytest.
+4. Проверяем установку командой ```pytest```
