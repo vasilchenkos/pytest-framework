@@ -10,4 +10,3 @@ def test_python_org():
     browser.get("https://www.python.org")
     assert "Python" in browser.title
     #browser.get_screenshot_as_file("screens/screen_python_org.png")
-
