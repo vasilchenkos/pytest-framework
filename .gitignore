@@ -1,6 +1,9 @@
 # Environments
 env/
-
 .idea/
 idea/
-
+.pytest_cache
+examples
+tests/screens
+tests/.pytest_cache
+tests/chromedriver
