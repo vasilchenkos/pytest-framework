@@ -7,3 +7,5 @@ examples
 tests/screens
 tests/.pytest_cache
 tests/chromedriver
+tests/__pycache__
+
