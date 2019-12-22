@@ -10,3 +10,4 @@ pyton 3.5 + pytest + selenium
 6. Для отчетности можем использовать pytest-html
  ```pip install pytest-html```
  ```pytest --html=report.html```
+либо allure, который установится из requirements
