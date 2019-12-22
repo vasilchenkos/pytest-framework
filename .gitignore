@@ -8,4 +8,6 @@ tests/screens
 tests/.pytest_cache
 tests/chromedriver
 tests/__pycache__
-
+tests/report.html
+.DS_Store
+tests/assets/

@@ -7,3 +7,6 @@ pyton 3.5 + pytest + selenium
  ```pip install -r requirements.txt```
 4. Проверяем установку командой ```pytest```
 5. Скачиваем chromedriver с https://chromedriver.chromium.org/ , подкладываем в папку tests
+6. Для отчетности можем использовать pytest-html
+ ```pip install pytest-html```
+ ```pytest --html=report.html```
