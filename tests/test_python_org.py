@@ -1,6 +1,6 @@
 from selenium import webdriver
 import pytest
-
+import allure
 options = webdriver.ChromeOptions()
 options.add_argument("headless")
 options.add_argument("--window-size=1920x1080")

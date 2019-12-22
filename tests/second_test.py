@@ -1,5 +1,5 @@
 import pytest
-
+import allure
 @pytest.mark.parametrize("a,b,c",
                          [
                              (1,2,3),

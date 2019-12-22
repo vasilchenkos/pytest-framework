@@ -1,5 +1,5 @@
 import pytest
-
+import allure
 def test_sun():
     assert 2+3 == 5
 

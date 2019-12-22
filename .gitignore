@@ -11,3 +11,4 @@ tests/__pycache__
 tests/report.html
 .DS_Store
 tests/assets/
+%allure_result_folder%
