@@ -1,7 +1,14 @@
-#Testing framework
+# Testing framework
 
-##Stack
-**pyton 3.5 + pytest + selenium**
+## Pre-Conditions
+
+| Technologies | Version |
+|:-------------|:-------------|
+|   python           |      3.6.0        |
+|   pytest           |      5.3.2       |
+|   selenium           |      3.141.0        |
+
+## How to
 1. Создаем **virtualenv**
  ```python3 -m venv env```
 2. Обновляем **pip**
